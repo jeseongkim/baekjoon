@@ -37,5 +37,5 @@ int main(int argc, char const *argv[])
 }
 
 int go2i(vector<string> &b, int dir){
-	
+	newasdf;
 }
